@@ -1,0 +1,13 @@
+com\prodict\Entity\Status.class
+com\prodict\Exception\ResourceNotFoundException.class
+com\prodict\Entity\ApiResponse.class
+com\prodict\Entity\Product.class
+com\prodict\Service\ProductService.class
+com\prodict\Service\ProductServiceImpl.class
+com\prodict\Controller\ProductController.class
+com\prodict\ProductServicesApplication.class
+com\prodict\Repo\ProductRepository.class
+com\prodict\Exception\GlobalException.class
+com\prodict\DTO\OrderResponse.class
+com\prodict\DTO\SupplierResponse.class
+com\prodict\DTO\ProductResponse.class

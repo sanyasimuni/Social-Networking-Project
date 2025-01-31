@@ -1,0 +1,13 @@
+E:\Inventory_Project\Product-Services\src\main\java\com\prodict\Controller\ProductController.java
+E:\Inventory_Project\Product-Services\src\main\java\com\prodict\DTO\OrderResponse.java
+E:\Inventory_Project\Product-Services\src\main\java\com\prodict\DTO\ProductResponse.java
+E:\Inventory_Project\Product-Services\src\main\java\com\prodict\DTO\SupplierResponse.java
+E:\Inventory_Project\Product-Services\src\main\java\com\prodict\Entity\ApiResponse.java
+E:\Inventory_Project\Product-Services\src\main\java\com\prodict\Entity\Product.java
+E:\Inventory_Project\Product-Services\src\main\java\com\prodict\Entity\Status.java
+E:\Inventory_Project\Product-Services\src\main\java\com\prodict\Exception\GlobalException.java
+E:\Inventory_Project\Product-Services\src\main\java\com\prodict\Exception\ResourceNotFoundException.java
+E:\Inventory_Project\Product-Services\src\main\java\com\prodict\ProductServicesApplication.java
+E:\Inventory_Project\Product-Services\src\main\java\com\prodict\Repo\ProductRepository.java
+E:\Inventory_Project\Product-Services\src\main\java\com\prodict\Service\ProductService.java
+E:\Inventory_Project\Product-Services\src\main\java\com\prodict\Service\ProductServiceImpl.java
